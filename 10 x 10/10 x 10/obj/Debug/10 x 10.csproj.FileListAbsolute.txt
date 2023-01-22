@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\bin\Debug\10 x 10.exe.config
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\bin\Debug\10 x 10.exe
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\bin\Debug\10 x 10.pdb
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\10 x 10.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\_10_x_10.Form1.resources
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\_10_x_10.Properties.Resources.resources
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\10 x 10.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\10 x 10.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\10 x 10.exe
+C:\Users\Mahan\source\repos\10 x 10\10 x 10\obj\Debug\10 x 10.pdb
